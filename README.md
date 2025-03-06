@@ -1,5 +1,10 @@
 # Car Maintenance App - Roles & User Stories
 
+## Team members
+ - El-Ghoul Layla: elglayla@gmail.com
+ - Mirghani Mahmoud Abdelrahman: abdalrahman1232023@gmail.com
+ - Uritu Andra-Ioana: andra.ioana.uritu@gmail.com
+
 ## Overview
 This application has two main user types: **Admin** and **Family Members**.  
 One person is designated as the Admin, responsible for managing all major car maintenance details. The rest of the users are Family Members, who can view and make small edits but do not have full management privileges.
