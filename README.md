@@ -2,7 +2,7 @@
 
 ## Team members
  - El-Ghoul Layla: elglayla@gmail.com
- - Mirghani Mahmoud Abdelrahman: abdalrahman1232023@gmail.com
+ - Mirghani Mahmoud Abdelrahman: abdalrahman.Mirghani@gmail.com
  - Uritu Andra-Ioana: andra.ioana.uritu@gmail.com
 
 ## Overview
